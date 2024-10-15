@@ -11,7 +11,7 @@
     <version>1.0.0</version>
 </dependency>
 ```
-
+_**不支持2.6.x的springboot版本，请使用2.7.x ！！！！！**_
 ## 配置使用
 
 ```yaml
